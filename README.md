@@ -54,7 +54,7 @@ I enjoy building backend applications, solving programming problems, and continu
 ---
 
 ## 🏆 Certifications
-
+* Full Stack Java Developer – Naresh i Technologies (2024)
 * Salesforce Certified Platform Developer I (2022)
 * Salesforce Certified Administrator (2023)
 
