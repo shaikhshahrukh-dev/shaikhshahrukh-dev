@@ -1,34 +1,78 @@
-
 # 👋 Hi there, I'm Shaikh Shahrukh!
 
-💻 **Java Full Stack Developer** | ☁️ **Salesforce Enthusiast** | 🎮 **Game Developer**
+💻 Aspiring Java Spring Boot Developer
 
 ---
 
-I'm a passionate developer with strong skills in both front-end and back-end development. I specialize in Java, Spring Boot, and modern web technologies, with additional experience in Salesforce platform development.
+I am a B.Tech Mechanical Engineering graduate currently transitioning into software development.
 
-In my spare time, I love building games using **Unity** and designing 3D assets with **Blender** — combining creativity and logic into interactive experiences.
+My primary focus is Java Backend Development using:
+
+• Core Java
+• JDBC
+• SQL / MySQL
+• Hibernate & JPA
+• Spring Boot
+• Spring Data JPA
+• Spring MVC
+• REST APIs
+• Spring Security (Learning)
+
+I enjoy building backend applications, solving programming problems, and continuously improving my software development skills.
 
 ---
 
 ## 🚀 Skills & Tools
 
-- **Languages:** Java, Apex, JavaScript, HTML, CSS, SQL
-- **Frameworks/Tools:** Spring Boot, Bootstrap, React, Salesforce, Git, GitHub
-- **Game Development:** Unity, C#, Blender
-- **Others:** REST APIs, OOP, MVC, Postman, VS Code
+### Backend
+
+* Java
+* JDBC
+* Hibernate
+* JPA
+* Spring Boot
+* Spring Data JPA
+
+### Database
+
+* SQL
+* MySQL
+
+### Web Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* Eclipse / IntelliJ IDEA
 
 ---
 
-## 🛠️ Current Focus
+## 🏆 Certifications
 
-- Creating Java-based web applications
-- Building personal game projects in Unity
-- Learning advanced Salesforce development
+* Salesforce Certified Platform Developer I (2022)
+* Salesforce Certified Administrator (2023)
 
 ---
 
-## 📫 Connect with Me
+## 🎯 Current Focus
 
-- 📧 Email: shaikhshahrukh819@gmail.com
-- 🔗 [LinkedIn] : https://www.linkedin.com/in/shaikh-shahrukh-salesforce
+* Completing Spring MVC
+* Learning REST APIs
+* Learning Spring Security
+* Building Spring Boot Projects
+* Preparing for Java Developer Interviews
+
+---
+
+## 📫 Connect With Me
+
+Email: [shaikhshahrukh819@gmail.com](mailto:shaikhshahrukh819@gmail.com)
+
+LinkedIn:
+https://www.linkedin.com/in/shaikh-shahrukh-salesforce
