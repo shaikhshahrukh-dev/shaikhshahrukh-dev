@@ -72,7 +72,7 @@ I enjoy building backend applications, solving programming problems, and continu
 
 ## 📫 Connect With Me
 
-Email: [shaikhshahrukh819@gmail.com](mailto:shaikhshahrukh819@gmail.com)
+Email: [shaikhshahrukh.dev@gmail.com](mailto:shaikhshahrukh.dev@gmail.com)
 
 LinkedIn:
-https://www.linkedin.com/in/shaikh-shahrukh-salesforce
+https://www.linkedin.com/in/shaikhshahrukh-dev
