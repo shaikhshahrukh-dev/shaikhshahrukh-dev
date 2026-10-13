@@ -13,7 +13,7 @@ Building practical web applications with Java, Spring Boot, and MySQL.
 
 <p>
   <a href="https://github.com/shaikhshahrukh-dev">
-    <img src="https://komarev.com/ghpvc/?username=shaikhshahrukh-dev&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+     <img src="https://komarev.com/ghpvc/?username=shaikhshahrukh-dev&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/shaikhshahrukh-dev?tab=followers">
     <img src="https://img.shields.io/github/followers/shaikhshahrukh-dev?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers"/>
