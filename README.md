@@ -166,9 +166,7 @@ A web application for splitting images into smaller sections.
 
 <div align="center">
 
-<a href="https://github.com/shaikhshahrukh-dev">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahrukh-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
-</a>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahrukh-dev&theme=tokyo-night)](https://github.com/shaikhshahrukh-dev)
 
 </div>
 
@@ -178,9 +176,7 @@ A web application for splitting images into smaller sections.
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=shaikhshahrukh-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies"/>
-</a>
+[![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=shaikhshahrukh-dev&theme=tokyonight&no-frame=true&column=4)](https://github.com/shaikhshahrukh-dev)
 
 </div>
 
