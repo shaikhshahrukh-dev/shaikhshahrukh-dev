@@ -166,9 +166,13 @@ A web application project focused on splitting images into smaller sections.
 
 <div align="center">
 
-<a href="https://github.com/shaikhshahrukh-dev">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahrukh-dev&theme=tokyo-night&hide_border=true&radius=12" alt="GitHub Contribution Activity Graph"/>
-</a>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahrukh-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
 
 </div>
 
