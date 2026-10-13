@@ -1,34 +1,209 @@
-<h1 align="center">Hi 👋, I'm Shaikh Shahrukh</h1>
-<h3 align="center">Java Full Stack Developer | Java, Spring Boot, Microservices, REST APIs & MySQL 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhshahrukh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhshahrukh-dev" /> </p>
+<!-- ===================================================== -->
+<!--                 PROFILE HEADER                        -->
+<!-- ===================================================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikhshahrukh-dev" alt="shaikhshahrukh-dev" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [Image Splitter Web Application](https://github.com/shaikhshahrukh-dev/image-splitter-web-application)
+# 👋 Hi, I'm Shaikh Shahrukh
 
-- 🌱 I’m currently learning **DSA**
+### ☕ Java Full Stack Developer | Spring Boot | REST APIs
 
-- 👨‍💻 All of my projects are available at [https://github.com/shaikhshahrukh-dev/image-splitter-web-application](https://github.com/shaikhshahrukh-dev/image-splitter-web-application)
+Building practical web applications with Java, Spring Boot, and MySQL.
 
-- 💬 Ask me about **Java, Spring, Spring Boot,Rest APIs, Microservices**
-
-- 📫 How to reach me **shaikhshahrukh.dev@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/shaikhshahrukh-dev/resume/blob/main/Shaikh%20Shahrukh%20java%20developer.pdf](https://github.com/shaikhshahrukh-dev/resume/blob/main/Shaikh%20Shahrukh%20java%20developer.pdf)
-
-- ⚡ Fun fact **☕ I turn coffee into code and bugs into features!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaikhshahrukh-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikhshahrukh-dev" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/shaikhshahrukh-dev">
+    <img src="https://komarev.com/ghpvc/?username=shaikhshahrukh-dev&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/shaikhshahrukh-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/shaikhshahrukh-dev?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/shaikhshahrukh-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<a href="https://github.com/shaikhshahrukh-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Building+RESTful+APIs;Learning+Data+Structures+%26+Algorithms;Turning+Ideas+Into+Applications" alt="Typing SVG"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhshahrukh-dev&show_icons=true&locale=en&layout=compact" alt="shaikhshahrukh-dev" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhshahrukh-dev&show_icons=true&locale=en" alt="shaikhshahrukh-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhshahrukh-dev&" alt="shaikhshahrukh-dev" /></p>
+## 👨‍💻 About Me
+
+- 💼 Focused on **Java Full Stack Development**.
+- ☕ Working with **Java, Spring Boot, Spring MVC, and Hibernate**.
+- 🔗 Building RESTful APIs using layered architecture.
+- 🗄️ Working with **MySQL, Spring Data JPA, and MongoDB**.
+- 🚀 Currently improving my problem-solving skills through **DSA**.
+- 🛠️ Interested in clean code, backend development, and scalable applications.
+- 📂 Explore my work: [GitHub Repositories](https://github.com/shaikhshahrukh-dev?tab=repositories)
+- 📄 View my [Resume](https://github.com/shaikhshahrukh-dev/resume/blob/main/Shaikh%20Shahrukh%20java%20developer.pdf)
+- 📫 Reach me at **[shaikhshahrukh.dev@gmail.com](mailto:shaikhshahrukh.dev@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js" alt="Java, HTML, CSS, JavaScript"/>
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Spring, Hibernate, Maven"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" alt="MySQL, MongoDB, Oracle"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,eclipse,vscode" alt="Git, GitHub, Postman, IntelliJ IDEA, Eclipse, VS Code"/>
+</p>
+
+**Also familiar with:** Spring Data JPA, JDBC, REST APIs, JSON, Bootstrap, JSP, Servlet, and Microservices.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 ZeroWaste Food
+
+A food donation web application designed to help connect food donors with people or organizations in need.
+
+**Highlights**
+- Food donation management
+- Donation and food item workflows
+- Spring Boot MVC architecture
+- DTOs, validation, and exception handling
+
+**Tech:** Java · Spring Boot · Spring MVC · JPA · MySQL
+
+<p>
+<a href="https://github.com/shaikhshahrukh-dev?tab=repositories">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View ZeroWaste Food"/>
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 ShopEase
+
+A full-stack e-commerce web application focused on a smooth online shopping experience.
+
+**Highlights**
+- Product browsing and categories
+- Shopping cart and wishlist
+- User authentication
+- Checkout workflow and responsive UI
+
+**Tech:** Java · Spring Boot · JSP · Bootstrap · MySQL
+
+<p>
+<a href="https://github.com/shaikhshahrukh-dev?tab=repositories">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View ShopEase"/>
+</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🖼️ Image Splitter Web Application
+
+A web application project focused on splitting images into smaller sections.
+
+<p>
+<a href="https://github.com/shaikhshahrukh-dev/image-splitter-web-application">
+<img src="https://img.shields.io/badge/Explore_Repository-0e75b6?style=for-the-badge&logo=github" alt="Explore Image Splitter"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  🔎 <a href="https://github.com/shaikhshahrukh-dev?tab=repositories"><b>Explore All My Repositories →</b></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/shaikhshahrukh-dev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shaikhshahrukh-dev&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/shaikhshahrukh-dev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshahrukh-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Most Used Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/shaikhshahrukh-dev">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhshahrukh-dev&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/shaikhshahrukh-dev">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahrukh-dev&theme=tokyo-night&hide_border=true&radius=12" alt="GitHub Contribution Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=shaikhshahrukh-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shaikhshahrukh-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shaikhshahrukh.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/shaikhshahrukh-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💡 "Every expert was once a beginner."
+
+☕ I turn coffee into code and bugs into features!
+
+</div>
