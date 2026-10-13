@@ -162,15 +162,23 @@ A web application for splitting images into smaller sections.
 
 ---
 
+
+---
+
 ## 📈 Contribution Activity Graph
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahrukh-dev&theme=tokyo-night)](https://github.com/shaikhshahrukh-dev)
+<img
+  src="https://github-readme-activity-graph-steel-tau.vercel.app/graph?username=shaikhshahrukh-dev&theme=tokyo-night"
+  alt="Shaikh Shahrukh's GitHub Contribution Activity Graph"
+  width="100%"
+/>
 
 </div>
 
 ---
+
 
 ## 🏆 GitHub Achievements
 
